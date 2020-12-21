@@ -109,7 +109,7 @@ Once we hit the `goal` and the Closing time, We will `finalize` the sale using t
 <Table><tr><td width=200>
 - Fund Raised
 
-![Total Wei Raised](Images/Wei_raised_closing.PNG) </td> <td width=200>
+![Total Wei Raised](Images/wei_raised_closing.PNG) </td> <td width=200>
 
 - Goal & Cap Reached
 
